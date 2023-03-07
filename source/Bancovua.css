@@ -1,0 +1,14 @@
+.White {
+    background-color: white;
+}
+table {
+    background-color: orange;
+}
+.Black {
+    background-color: black;
+}
+table {
+    border-collapse: collapse;
+    width: 550px;
+    height: 550px;
+}
